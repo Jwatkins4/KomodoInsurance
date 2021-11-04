@@ -1,0 +1,2 @@
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodeInsurance/obj/Debug/KomodeInsurance.csproj.AssemblyReference.cache
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodeInsurance/obj/Debug/KomodeInsurance.csproj.CoreCompileInputs.cache

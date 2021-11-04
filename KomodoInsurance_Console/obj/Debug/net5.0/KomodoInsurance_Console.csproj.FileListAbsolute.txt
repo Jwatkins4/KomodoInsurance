@@ -1,0 +1,15 @@
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/KomodoInsurance_Console.deps.json
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/KomodoInsurance_Console.runtimeconfig.json
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/KomodoInsurance_Console.runtimeconfig.dev.json
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/KomodoInsurance_Console.dll
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/ref/KomodoInsurance_Console.dll
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/bin/Debug/net5.0/KomodoInsurance_Console.pdb
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.csproj.AssemblyReference.cache
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.AssemblyInfoInputs.cache
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.AssemblyInfo.cs
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.csproj.CoreCompileInputs.cache
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.dll
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/ref/KomodoInsurance_Console.dll
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.pdb
+/Users/jamarwatkins/Desktop/ElevenFiftyProjects/Insurance Individual Project/KomodeInsurance/KomodoInsurance_Console/obj/Debug/net5.0/KomodoInsurance_Console.genruntimeconfig.cache

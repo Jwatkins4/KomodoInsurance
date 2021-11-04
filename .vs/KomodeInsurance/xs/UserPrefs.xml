@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AB7E6ED2-849E-4CD8-A97A-E41EAFBC93BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.KomodoInsurance__Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KomodoInsurance_ClassLibrary/DevTeamRepo.cs">
+    <Files>
+      <File FileName="KomodoInsurance_Console/Program.cs" Line="10" Column="27" IsPinned="True" />
+      <File FileName="KomodeInsurance/Program.cs" IsPinned="True" />
+      <File FileName="KomodoInsurance_ClassLibrary/DevTeam.cs" IsPinned="True" />
+      <File FileName="KomodoInsurance_Console/ProgramUI.cs" IsPinned="True" />
+      <File FileName="KomodoInsurance_ClassLibrary/Developer.cs" IsPinned="True" />
+      <File FileName="KomodoInsurance_ClassLibrary/DevTeamRepo.cs" Line="77" Column="2" />
+      <File FileName="KomodoInsurance_ClassLibrary/DeveloperRepo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KomodeInsurance" expanded="True">
+            <Node name="KomodoInsurance_ClassLibrary" expanded="True">
+              <Node name="DevTeamRepo.cs" selected="True" />
+            </Node>
+            <Node name="KomodoInsurance_Console" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KomodoInsurance__ClassLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
